@@ -1,14 +1,19 @@
 # DATABASE DESCRIPTION
 
-Folder contains the final database used in manuscripts "O. Vásárhelyi, I Zakhlebin, S. Milojevic, EÁ. Horvát: Gender inequities in the online dissemination of scholars’ work"
 
-Each dataset contains variables capturing sceintists' offline and online activity that was used to model the online success of scientists by broad research areas. Broad research areas were inferred from Web of Science data provided by by Clarivate Analytics, available for cost from at https://clarivate.com/webofsciencegroup/solutions/web-of-science/.  For the assignment of subject categories you can find an algorithm (pseudocode) describing the reclassification procedure at: https://direct.mit.edu/qss/article/1/1/183/15573/Practical-method-to-reclassify-Web-of-Science.
+This folder contains the compiled data used in the article titled "Gender inequities in the online dissemination of scholars’ work" by O. Vásárhelyi, I Zakhlebin, S. Milojevic, E-Á. Horvát.
 
-The number of shares sceintists articles recevied in 2012 was obtained through the Altmetric's free Researcher Data Access Program (https://www.altmetric.com/research-access/). Metrics of scientists' ego networks were collected from the Open Academic Graph dataset which is available here: https://www.microsoft.com/en-us/research/project/open-academic-graph/. 
+
+Data files are provided for each broad research area and contain variables capturing scientists' offline and online activity. We used these measures to evaluate and model the online success of scholars. Broad research areas were inferred from Web of Science data provided by Clarivate Analytics, available for cost from at https://clarivate.com/webofsciencegroup/solutions/web-of-science/. In addition, affiliates of member institutions can access Web of Science data for free through CADRE at: https://cadre.iu.edu/about-cadre. The algorithm used for classifying broad research areas is accessible at: https://direct.mit.edu/qss/article/1/1/183/15573/Practical-method-to-reclassify-Web-of-Science, Figure 2.
+
  
+The number of online shares of scientists' articles was obtained through Altmetric's free Researcher Data Access Program (https://www.altmetric.com/research-access/). Metrics of scientists' ego networks were collected from the Open Academic Graph dataset which is available here: https://www.microsoft.com/en-us/research/project/open-academic-graph/.
+
 
 ## Variables:
 
+
+- Author ID (betettem a listaba ezt, korabban nem volt ott)
 - Female
 - Successful (Top 25%)
 - Number of shares
