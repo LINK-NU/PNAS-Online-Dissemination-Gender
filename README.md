@@ -12,7 +12,7 @@ Data files are provided for each broad research area and contain variables captu
 
 ### Variables:
 
-- Author ID (betettem a listaba ezt, korabban nem volt ott)
+- Author ID
 - Female
 - Successful (Top 25%)
 - Number of shares
