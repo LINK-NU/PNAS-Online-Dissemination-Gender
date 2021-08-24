@@ -1,10 +1,10 @@
-# Title
+# Gender Inequities in the Online Dissemination of Scholars’ Work
 
 Unbiased science dissemination has the potential to alleviate some of the known gender disparities in academia by exposing female scholars' work to other scientists and the public. And yet, we lack comprehensive understanding of the relationship between gender and science dissemination online. Our large-scale analyses, encompassing half a million scholars, revealed that female scholars' work is mentioned less frequently than male scholars' work in all research areas. When exploring the characteristics associated with online success, we found that the impact of prior work, social capital, and gendered tie formation in co-authorship networks are linked with online success for men, but not for women--even in the areas with the highest female representation. These results suggest that while men's scientific impact and collaboration networks are associated with higher visibility online, there are no universally identifiable facets associated with success for women. Our comprehensive empirical evidence indicates that the gender gap in online science dissemination is coupled with a lack of understanding the characteristics that are linked with female scholars' success, which might hinder efforts to close the gender gap in visibility.
 
-*Keywords:*
+*Keywords:* gender inequality, scholarly communication, social networks, STEM, computational social science
 
-*Citation:*
+*Citation:* O. Vásárhelyi, I Zakhlebin, S. Milojevic, E-Á. Horvát. "Gender Inequities in the Online Dissemination of Scholars’ Work". PNAS 2021 vol. 118 e2102945118 DOI: https://doi.org/10.1073/pnas.2102945118
 
 ## DATABASE DESCRIPTION
 
