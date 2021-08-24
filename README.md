@@ -1,6 +1,6 @@
 # Title
 
-Abstract
+Unbiased science dissemination has the potential to alleviate some of the known gender disparities in academia by exposing female scholars' work to other scientists and the public. And yet, we lack comprehensive understanding of the relationship between gender and science dissemination online. Our large-scale analyses, encompassing half a million scholars, revealed that female scholars' work is mentioned less frequently than male scholars' work in all research areas. When exploring the characteristics associated with online success, we found that the impact of prior work, social capital, and gendered tie formation in co-authorship networks are linked with online success for men, but not for women--even in the areas with the highest female representation. These results suggest that while men's scientific impact and collaboration networks are associated with higher visibility online, there are no universally identifiable facets associated with success for women. Our comprehensive empirical evidence indicates that the gender gap in online science dissemination is coupled with a lack of understanding the characteristics that are linked with female scholars' success, which might hinder efforts to close the gender gap in visibility.
 
 *Keywords:*
 
@@ -13,7 +13,6 @@ Data files are provided for each broad research area and contain variables captu
 The number of online shares of scientists' articles was obtained through Altmetric's free [Researcher Data Access Program](https://www.altmetric.com/research-access/). Metrics of scientists' ego networks were collected from the [Open Academic Graph](https://www.microsoft.com/en-us/research/project/open-academic-graph/) dataset.
 
 ### Variables:
-
 
 - Author ID (betettem a listaba ezt, korabban nem volt ott)
 - Female
@@ -36,7 +35,6 @@ The number of online shares of scientists' articles was obtained through Altmetr
 - Num. papers in male majority teams
 - Male homophily
 - Tie strength to men
-
 
 If you have qustion about the databases contact: 
 Orsolya Vasarhelyi (orsolya.vasarhelyi@gmail.com)
